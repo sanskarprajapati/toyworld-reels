@@ -11,8 +11,15 @@ painted toy faces with blinks and lip sync, an offline voiceover (Kokoro), capti
 sound effects, mastered to -14 LUFS. The repo ships the kit, a command-line tool, two finished reels as worked examples, and
 a Claude Code skill that runs the whole workflow.
 
-![Hot-air balloon reel](docs/balloon.jpg)
-![Submarine reel](docs/submarine.jpg)
+<table>
+<tr>
+<td align="center"><a href="https://github.com/sanskarprajapati/toyworld-reels/releases/download/v0.1.0/balloon-reel.mp4"><img src="docs/balloon.gif" width="270" alt="Hot-air balloon reel, first 11 seconds"></a><br><b>How a hot-air balloon works</b><br>59 s · 49 shots · <a href="https://github.com/sanskarprajapati/toyworld-reels/releases/download/v0.1.0/balloon-reel.mp4">watch with sound</a></td>
+<td align="center"><a href="https://github.com/sanskarprajapati/toyworld-reels/releases/download/v0.1.0/submarine-reel.mp4"><img src="docs/submarine.gif" width="270" alt="Submarine reel, first 11 seconds"></a><br><b>How a submarine works</b><br>57 s · 45 shots · <a href="https://github.com/sanskarprajapati/toyworld-reels/releases/download/v0.1.0/submarine-reel.mp4">watch with sound</a></td>
+</tr>
+</table>
+
+![Frames from the hot-air balloon reel](docs/balloon.jpg)
+![Frames from the submarine reel](docs/submarine.jpg)
 
 ## Install
 
