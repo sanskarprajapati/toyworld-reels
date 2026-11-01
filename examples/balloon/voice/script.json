@@ -1,0 +1,518 @@
+{
+ "voices": {
+  "narrator": {
+   "voice": "am_puck",
+   "speed": 1.2,
+   "tempo": 1.36
+  },
+  "ben": {
+   "voice": "am_echo",
+   "speed": 1.18,
+   "pitch": 3,
+   "tempo": 1.1
+  },
+  "grandma": {
+   "voice": "bf_lily",
+   "speed": 1.15,
+   "pitch": 1,
+   "tempo": 1.1
+  },
+  "neighbour": {
+   "voice": "am_michael",
+   "speed": 1.15,
+   "tempo": 1.1
+  }
+ },
+ "groups": [
+  {
+   "shots": [
+    "01",
+    "02",
+    "03",
+    "04"
+   ],
+   "lines": [
+    {
+     "text": "Hold a plastic bag over a fire, let go, and it flies! Congratulations, you've built a hot-air balloon!",
+     "key": [
+      "balloon"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "05"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Whoa!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "06",
+    "07"
+   ],
+   "lines": [
+    {
+     "text": "Hot air spreads out, so a box of it weighs less than a box of cold air.",
+     "key": [
+      "lighter"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "08",
+    "09"
+   ],
+   "lines": [
+    {
+     "text": "But once it cools down, it sinks right back... and lands on Ben."
+    }
+   ]
+  },
+  {
+   "shots": [
+    "10",
+    "11"
+   ],
+   "lines": [
+    {
+     "text": "That bag lifts a cookie. But not Ben.",
+     "key": [
+      "cookie"
+     ]
+    },
+    {
+     "who": "ben",
+     "text": "Come on!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "12",
+    "12b"
+   ],
+   "lines": [
+    {
+     "text": "One cubic metre of hot air lifts about a sandwich. Ben needs six hundred of them.",
+     "key": [
+      "sandwich",
+      "hundred"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "13"
+   ],
+   "lines": [
+    {
+     "text": "So you sew up a bag the size of a house.",
+     "key": [
+      "house"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "14"
+   ],
+   "lines": [
+    {
+     "who": "neighbour",
+     "text": "Are those my bedsheets?"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "15",
+    "16"
+   ],
+   "lines": [
+    {
+     "text": "Blow cold air in with a fan to open it up,",
+     "key": [
+      "fan"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "17",
+    "18"
+   ],
+   "lines": [
+    {
+     "text": "then fire the burner. The hot air stands it up!",
+     "key": [
+      "burner"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "19"
+   ],
+   "lines": [
+    {
+     "text": "Ben climbs in with a sandwich,",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "20",
+    "21"
+   ],
+   "lines": [
+    {
+     "text": "you untie the rope, and up, up, up he goes!",
+     "key": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "22"
+   ],
+   "lines": [
+    {
+     "text": "The hotter the air inside, the harder it lifts.",
+     "key": [
+      "hotter"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "23",
+    "24"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Lunch time!"
+    },
+    {
+     "text": "So he turns the burner off.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "25",
+    "26"
+   ],
+   "lines": [
+    {
+     "text": "But the air inside cools down, and below sixty-seven degrees it can't hold him up,",
+     "key": [
+      "cools"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "27"
+   ],
+   "lines": [
+    {
+     "text": "so it sinks, right towards the neighbour.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "28"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "My sandwich!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "29"
+   ],
+   "lines": [
+    {
+     "text": "Right on target.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "30",
+    "31"
+   ],
+   "lines": [
+    {
+     "text": "Ben fires the burner, but the air takes a few seconds to heat up, so it keeps on sinking.",
+     "key": [
+      "seconds"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "32"
+   ],
+   "lines": [
+    {
+     "who": "neighbour",
+     "text": "Hey! My roof!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "33",
+    "34"
+   ],
+   "lines": [
+    {
+     "text": "And balloons don't come with a steering wheel, Ben.",
+     "key": [
+      "steering"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "35"
+   ],
+   "lines": [
+    {
+     "text": "But the wind blows different ways at different heights,",
+     "key": [
+      "heights"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "36"
+   ],
+   "lines": [
+    {
+     "text": "so you climb into the wind that goes your way.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "37",
+    "38"
+   ],
+   "lines": [
+    {
+     "text": "Next stop: grandma's garden, round the corner.",
+     "key": [
+      "grandma's"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "39",
+    "40"
+   ],
+   "lines": [
+    {
+     "text": "To come down, pull the vent. Hot air rushes out of the top,",
+     "key": [
+      "vent"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "41"
+   ],
+   "lines": [
+    {
+     "text": "and down, down, down you go.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "42"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Too much! Too much!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "43",
+    "44"
+   ],
+   "lines": [
+    {
+     "text": "The basket hits the lawn, and the wind drags it along,",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "45"
+   ],
+   "lines": [
+    {
+     "text": "until the whole thing flops over the washing line.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "46"
+   ],
+   "lines": [
+    {
+     "text": "Congratulations, you've built a hot-air balloon!",
+     "key": [
+      "balloon"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "47"
+   ],
+   "lines": [
+    {
+     "who": "grandma",
+     "text": "You could have taken the bus, dear."
+    }
+   ]
+  },
+  {
+   "shots": [
+    "48"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "I know."
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "shot": "06",
+   "until": "07",
+   "text": "HOT AIR = LIGHTER"
+  },
+  {
+   "shot": "10",
+   "text": "LIFTS 15 g",
+   "style": "green"
+  },
+  {
+   "shot": "12",
+   "text": "1 m³ LIFTS 250 g"
+  },
+  {
+   "shot": "12b",
+   "text": "{n} m³",
+   "count": [
+    1,
+    600
+   ]
+  },
+  {
+   "shot": "15",
+   "text": "COLD AIR FIRST"
+  },
+  {
+   "shot": "17",
+   "text": "BURNER"
+  },
+  {
+   "shot": "22",
+   "text": "HOTTER = MORE LIFT"
+  },
+  {
+   "shot": "26",
+   "text": "BELOW 67 °C = SINKS"
+  },
+  {
+   "shot": "29",
+   "text": "SPLAT",
+   "style": "red"
+  },
+  {
+   "shot": "30",
+   "until": "31",
+   "text": "HEAT TAKES TIME"
+  },
+  {
+   "shot": "32",
+   "text": "CRUNCH",
+   "style": "red"
+  },
+  {
+   "shot": "33",
+   "text": "NO STEERING"
+  },
+  {
+   "shot": "35",
+   "until": "36",
+   "text": "WIND LAYERS"
+  },
+  {
+   "shot": "39",
+   "until": "40",
+   "text": "VENT"
+  },
+  {
+   "shot": "43",
+   "text": "BONK",
+   "style": "red"
+  }
+ ],
+ "timing": {
+  "floor": 0.7,
+  "min_k": {
+   "20": 0.6,
+   "32": 0.62
+  }
+ }
+}

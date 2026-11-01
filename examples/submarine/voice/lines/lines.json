@@ -1,0 +1,206 @@
+[
+ {
+  "id": "g00_0",
+  "text": "First, sit Ben in a barrel, tie on a big rock, and push.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g01_0",
+  "text": "Down he goes... Congratulations, you've built a submarine!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g02_0",
+  "text": "Mm-mmm!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g03_0",
+  "text": "It can go down. It just can't come back up.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g04_0",
+  "text": "Water pushes up with the weight of the water you push aside.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g05_0",
+  "text": "The rock weighs more than that, so it sinks.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g06_0",
+  "text": "A beach ball weighs much less, so it pops right back up.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g06_1",
+  "text": "Whoa-oh!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g07_0",
+  "text": "So heavy things sink, light things float, and the same weight hovers.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g08_0",
+  "text": "So you build a sub that can change its weight,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g09_0",
+  "text": "with two empty tanks on the sides.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g10_0",
+  "text": "Fishing time!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g11_0",
+  "text": "Full of air, it floats.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g12_0",
+  "text": "Open the vents, the tanks fill with water, and down it goes.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g13_0",
+  "text": "Too much water, and it sinks to the bottom.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g14_0",
+  "text": "Pump half the water out, and it weighs exactly as much as the water it pushes aside,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g15_0",
+  "text": "so it just hangs there in the water, perfectly still.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g16_0",
+  "text": "A propeller at the back pushes it along, past the weeds.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g17_0",
+  "text": "And a periscope pokes up to look around.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g18_0",
+  "text": "And who's that up there? It's the neighbour, fishing.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g19_0",
+  "text": "Then his fishing hook snags the sub.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g20_0",
+  "text": "Big one!",
+  "voice": "am_michael",
+  "speed": 1.15
+ },
+ {
+  "id": "g21_0",
+  "text": "Ben drives off, towing him across the lake.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g22_0",
+  "text": "Biggest catch of my life!",
+  "voice": "am_michael",
+  "speed": 1.15
+ },
+ {
+  "id": "g23_0",
+  "text": "Deeper down, the water presses harder, one more atmosphere every ten metres.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g24_0",
+  "text": "It's getting tight in here... AAAH!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g25_0",
+  "text": "So Ben blows the tanks with compressed air,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g26_0",
+  "text": "now it's lighter than the water, and up it shoots,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g27_0",
+  "text": "right up under the neighbour's little boat. Oops.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g28_0",
+  "text": "Empty tanks: it floats again.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g29_0",
+  "text": "Worst fishing trip ever.",
+  "voice": "am_michael",
+  "speed": 1.15
+ },
+ {
+  "id": "g30_0",
+  "text": "And there you have it. Congratulations, you've built a submarine!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g31_0",
+  "text": "You know they sell snorkels, dear?",
+  "voice": "bf_lily",
+  "speed": 1.15
+ },
+ {
+  "id": "g32_0",
+  "text": "Now you tell me.",
+  "voice": "am_echo",
+  "speed": 1.18
+ }
+]

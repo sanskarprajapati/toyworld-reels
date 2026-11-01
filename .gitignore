@@ -1,0 +1,15 @@
+# downloaded by setup.sh
+assets/hdri/
+assets/textures/
+assets/trees/
+.engine/
+# per-film build output
+**/render/
+**/output/
+**/review/
+**/audio/music.wav
+**/audio/mix.wav
+**/voice/voice.wav
+**/voice/lines/*.tmp.wav
+.DS_Store
+__pycache__/

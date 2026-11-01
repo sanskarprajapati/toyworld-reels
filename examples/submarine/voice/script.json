@@ -1,0 +1,497 @@
+{
+ "voices": {
+  "narrator": {
+   "voice": "am_puck",
+   "speed": 1.2,
+   "tempo": 1.36
+  },
+  "ben": {
+   "voice": "am_echo",
+   "speed": 1.18,
+   "pitch": 3,
+   "tempo": 1.1
+  },
+  "grandma": {
+   "voice": "bf_lily",
+   "speed": 1.15,
+   "pitch": 1,
+   "tempo": 1.1
+  },
+  "neighbour": {
+   "voice": "am_michael",
+   "speed": 1.15,
+   "tempo": 1.1
+  }
+ },
+ "groups": [
+  {
+   "shots": [
+    "01",
+    "02"
+   ],
+   "lines": [
+    {
+     "text": "First, sit Ben in a barrel, tie on a big rock, and push.",
+     "key": [
+      "rock"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "03",
+    "04"
+   ],
+   "lines": [
+    {
+     "text": "Down he goes... Congratulations, you've built a submarine!",
+     "key": [
+      "submarine"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "05"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Mm-mmm!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "06"
+   ],
+   "lines": [
+    {
+     "text": "It can go down. It just can't come back up.",
+     "key": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "07"
+   ],
+   "lines": [
+    {
+     "text": "Water pushes up with the weight of the water you push aside.",
+     "key": [
+      "weight"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "08"
+   ],
+   "lines": [
+    {
+     "text": "The rock weighs more than that, so it sinks.",
+     "key": [
+      "sinks"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "09",
+    "10"
+   ],
+   "lines": [
+    {
+     "text": "A beach ball weighs much less, so it pops right back up.",
+     "key": [
+      "less"
+     ]
+    },
+    {
+     "who": "ben",
+     "text": "Whoa-oh!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "11"
+   ],
+   "lines": [
+    {
+     "text": "So heavy things sink, light things float, and the same weight hovers.",
+     "key": [
+      "hovers"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "12"
+   ],
+   "lines": [
+    {
+     "text": "So you build a sub that can change its weight,",
+     "key": [
+      "weight"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "13"
+   ],
+   "lines": [
+    {
+     "text": "with two empty tanks on the sides.",
+     "key": [
+      "tanks"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "14"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Fishing time!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "15"
+   ],
+   "lines": [
+    {
+     "text": "Full of air, it floats.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "16",
+    "17"
+   ],
+   "lines": [
+    {
+     "text": "Open the vents, the tanks fill with water, and down it goes.",
+     "key": [
+      "water"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "18",
+    "19"
+   ],
+   "lines": [
+    {
+     "text": "Too much water, and it sinks to the bottom.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "20"
+   ],
+   "lines": [
+    {
+     "text": "Pump half the water out, and it weighs exactly as much as the water it pushes aside,",
+     "key": [
+      "exactly"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "21",
+    "22"
+   ],
+   "lines": [
+    {
+     "text": "so it just hangs there in the water, perfectly still.",
+     "key": [
+      "still"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "23",
+    "24"
+   ],
+   "lines": [
+    {
+     "text": "A propeller at the back pushes it along, past the weeds.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "25"
+   ],
+   "lines": [
+    {
+     "text": "And a periscope pokes up to look around.",
+     "key": [
+      "periscope"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "26",
+    "27"
+   ],
+   "lines": [
+    {
+     "text": "And who's that up there? It's the neighbour, fishing.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "28"
+   ],
+   "lines": [
+    {
+     "text": "Then his fishing hook snags the sub.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "29"
+   ],
+   "lines": [
+    {
+     "who": "neighbour",
+     "text": "Big one!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "30"
+   ],
+   "lines": [
+    {
+     "text": "Ben drives off, towing him across the lake.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "31"
+   ],
+   "lines": [
+    {
+     "who": "neighbour",
+     "text": "Biggest catch of my life!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "32",
+    "33"
+   ],
+   "lines": [
+    {
+     "text": "Deeper down, the water presses harder, one more atmosphere every ten metres.",
+     "key": [
+      "atmosphere"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "34",
+    "35"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "It's getting tight in here... AAAH!"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "36"
+   ],
+   "lines": [
+    {
+     "text": "So Ben blows the tanks with compressed air,",
+     "key": [
+      "air"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "37"
+   ],
+   "lines": [
+    {
+     "text": "now it's lighter than the water, and up it shoots,",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "38",
+    "39"
+   ],
+   "lines": [
+    {
+     "text": "right up under the neighbour's little boat. Oops.",
+     "key": []
+    }
+   ]
+  },
+  {
+   "shots": [
+    "40"
+   ],
+   "lines": [
+    {
+     "text": "Empty tanks: it floats again.",
+     "key": [
+      "floats"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "41"
+   ],
+   "lines": [
+    {
+     "who": "neighbour",
+     "text": "Worst fishing trip ever."
+    }
+   ]
+  },
+  {
+   "shots": [
+    "42",
+    "43"
+   ],
+   "lines": [
+    {
+     "text": "And there you have it. Congratulations, you've built a submarine!",
+     "key": [
+      "submarine"
+     ]
+    }
+   ]
+  },
+  {
+   "shots": [
+    "44"
+   ],
+   "lines": [
+    {
+     "who": "grandma",
+     "text": "You know they sell snorkels, dear?"
+    }
+   ]
+  },
+  {
+   "shots": [
+    "45"
+   ],
+   "lines": [
+    {
+     "who": "ben",
+     "text": "Now you tell me."
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "shot": "02",
+   "text": "SPLASH",
+   "style": "red"
+  },
+  {
+   "shot": "07",
+   "text": "BUOYANCY"
+  },
+  {
+   "shot": "08",
+   "text": "WEIGHT > BUOYANCY"
+  },
+  {
+   "shot": "11",
+   "text": "SINK · FLOAT · HOVER"
+  },
+  {
+   "shot": "13",
+   "text": "BALLAST TANKS"
+  },
+  {
+   "shot": "16",
+   "until": "17",
+   "text": "VENTS OPEN"
+  },
+  {
+   "shot": "20",
+   "until": "21",
+   "text": "NEUTRAL",
+   "style": "green"
+  },
+  {
+   "shot": "25",
+   "text": "PERISCOPE"
+  },
+  {
+   "shot": "26",
+   "text": "",
+   "style": "scope"
+  },
+  {
+   "shot": "33",
+   "text": "+1 atm PER 10 m"
+  },
+  {
+   "shot": "36",
+   "text": "BLOW BALLAST"
+  },
+  {
+   "shot": "38",
+   "text": "SPLASH",
+   "style": "red"
+  }
+ ]
+}

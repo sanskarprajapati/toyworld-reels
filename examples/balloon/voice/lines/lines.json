@@ -1,0 +1,206 @@
+[
+ {
+  "id": "g00_0",
+  "text": "Hold a plastic bag over a fire, let go, and it flies! Congratulations, you've built a hot-air balloon!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g01_0",
+  "text": "Whoa!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g02_0",
+  "text": "Hot air spreads out, so a box of it weighs less than a box of cold air.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g03_0",
+  "text": "But once it cools down, it sinks right back... and lands on Ben.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g04_0",
+  "text": "That bag lifts a cookie. But not Ben.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g04_1",
+  "text": "Come on!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g05_0",
+  "text": "One cubic metre of hot air lifts about a sandwich. Ben needs six hundred of them.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g06_0",
+  "text": "So you sew up a bag the size of a house.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g07_0",
+  "text": "Are those my bedsheets?",
+  "voice": "am_michael",
+  "speed": 1.15
+ },
+ {
+  "id": "g08_0",
+  "text": "Blow cold air in with a fan to open it up,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g09_0",
+  "text": "then fire the burner. The hot air stands it up!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g10_0",
+  "text": "Ben climbs in with a sandwich,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g11_0",
+  "text": "you untie the rope, and up, up, up he goes!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g12_0",
+  "text": "The hotter the air inside, the harder it lifts.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g13_0",
+  "text": "Lunch time!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g13_1",
+  "text": "So he turns the burner off.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g14_0",
+  "text": "But the air inside cools down, and below sixty-seven degrees it can't hold him up,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g15_0",
+  "text": "so it sinks, right towards the neighbour.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g16_0",
+  "text": "My sandwich!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g17_0",
+  "text": "Right on target.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g18_0",
+  "text": "Ben fires the burner, but the air takes a few seconds to heat up, so it keeps on sinking.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g19_0",
+  "text": "Hey! My roof!",
+  "voice": "am_michael",
+  "speed": 1.15
+ },
+ {
+  "id": "g20_0",
+  "text": "And balloons don't come with a steering wheel, Ben.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g21_0",
+  "text": "But the wind blows different ways at different heights,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g22_0",
+  "text": "so you climb into the wind that goes your way.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g23_0",
+  "text": "Next stop: grandma's garden, round the corner.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g24_0",
+  "text": "To come down, pull the vent. Hot air rushes out of the top,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g25_0",
+  "text": "and down, down, down you go.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g26_0",
+  "text": "Too much! Too much!",
+  "voice": "am_echo",
+  "speed": 1.18
+ },
+ {
+  "id": "g27_0",
+  "text": "The basket hits the lawn, and the wind drags it along,",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g28_0",
+  "text": "until the whole thing flops over the washing line.",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g29_0",
+  "text": "Congratulations, you've built a hot-air balloon!",
+  "voice": "am_puck",
+  "speed": 1.2
+ },
+ {
+  "id": "g30_0",
+  "text": "You could have taken the bus, dear.",
+  "voice": "bf_lily",
+  "speed": 1.15
+ },
+ {
+  "id": "g31_0",
+  "text": "I know.",
+  "voice": "am_echo",
+  "speed": 1.18
+ }
+]

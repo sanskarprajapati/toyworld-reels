@@ -1,0 +1,1958 @@
+{
+ "total": 57.067,
+ "lines": [
+  {
+   "id": "g00_0",
+   "who": "narrator",
+   "start": 0.0,
+   "dur": 2.048,
+   "caption": "First, sit Ben in a barrel, tie on a big rock, and push."
+  },
+  {
+   "id": "g01_0",
+   "who": "narrator",
+   "start": 2.067,
+   "dur": 2.13,
+   "caption": "Down he goes... Congratulations, you've built a submarine!"
+  },
+  {
+   "id": "g02_0",
+   "who": "ben",
+   "start": 4.233,
+   "dur": 1.243,
+   "caption": "Mm-mmm!"
+  },
+  {
+   "id": "g03_0",
+   "who": "narrator",
+   "start": 5.5,
+   "dur": 1.593,
+   "caption": "It can go down. It just can't come back up."
+  },
+  {
+   "id": "g04_0",
+   "who": "narrator",
+   "start": 7.133,
+   "dur": 2.028,
+   "caption": "Water pushes up with the weight of the water you push aside."
+  },
+  {
+   "id": "g05_0",
+   "who": "narrator",
+   "start": 9.2,
+   "dur": 1.408,
+   "caption": "The rock weighs more than that, so it sinks."
+  },
+  {
+   "id": "g06_0",
+   "who": "narrator",
+   "start": 10.633,
+   "dur": 2.129,
+   "caption": "A beach ball weighs much less, so it pops right back up."
+  },
+  {
+   "id": "g06_1",
+   "who": "ben",
+   "start": 12.792,
+   "dur": 0.788,
+   "caption": "Whoa-oh!"
+  },
+  {
+   "id": "g07_0",
+   "who": "narrator",
+   "start": 13.633,
+   "dur": 2.391,
+   "caption": "So heavy things sink, light things float, and the same weight hovers."
+  },
+  {
+   "id": "g08_0",
+   "who": "narrator",
+   "start": 16.067,
+   "dur": 1.56,
+   "caption": "So you build a sub that can change its weight,"
+  },
+  {
+   "id": "g09_0",
+   "who": "narrator",
+   "start": 17.667,
+   "dur": 1.188,
+   "caption": "with two empty tanks on the sides."
+  },
+  {
+   "id": "g10_0",
+   "who": "ben",
+   "start": 18.9,
+   "dur": 1.131,
+   "caption": "Fishing time!"
+  },
+  {
+   "id": "g11_0",
+   "who": "narrator",
+   "start": 20.067,
+   "dur": 0.822,
+   "caption": "Full of air, it floats."
+  },
+  {
+   "id": "g12_0",
+   "who": "narrator",
+   "start": 20.933,
+   "dur": 2.069,
+   "caption": "Open the vents, the tanks fill with water, and down it goes."
+  },
+  {
+   "id": "g13_0",
+   "who": "narrator",
+   "start": 23.033,
+   "dur": 1.462,
+   "caption": "Too much water, and it sinks to the bottom."
+  },
+  {
+   "id": "g14_0",
+   "who": "narrator",
+   "start": 24.533,
+   "dur": 3.036,
+   "caption": "Pump half the water out, and it weighs exactly as much as the water it pushes aside,"
+  },
+  {
+   "id": "g15_0",
+   "who": "narrator",
+   "start": 27.6,
+   "dur": 1.755,
+   "caption": "so it just hangs there in the water, perfectly still."
+  },
+  {
+   "id": "g16_0",
+   "who": "narrator",
+   "start": 29.4,
+   "dur": 1.89,
+   "caption": "A propeller at the back pushes it along, past the weeds."
+  },
+  {
+   "id": "g17_0",
+   "who": "narrator",
+   "start": 31.333,
+   "dur": 1.402,
+   "caption": "And a periscope pokes up to look around."
+  },
+  {
+   "id": "g18_0",
+   "who": "narrator",
+   "start": 32.767,
+   "dur": 1.514,
+   "caption": "And who's that up there? It's the neighbour, fishing."
+  },
+  {
+   "id": "g19_0",
+   "who": "narrator",
+   "start": 34.3,
+   "dur": 1.226,
+   "caption": "Then his fishing hook snags the sub."
+  },
+  {
+   "id": "g20_0",
+   "who": "neighbour",
+   "start": 35.567,
+   "dur": 0.721,
+   "caption": "Big one!"
+  },
+  {
+   "id": "g21_0",
+   "who": "narrator",
+   "start": 36.333,
+   "dur": 1.546,
+   "caption": "Ben drives off, towing him across the lake."
+  },
+  {
+   "id": "g22_0",
+   "who": "neighbour",
+   "start": 37.933,
+   "dur": 1.398,
+   "caption": "Biggest catch of my life!"
+  },
+  {
+   "id": "g23_0",
+   "who": "narrator",
+   "start": 39.367,
+   "dur": 2.913,
+   "caption": "Deeper down, the water presses harder, one more atmosphere every ten metres."
+  },
+  {
+   "id": "g24_0",
+   "who": "ben",
+   "start": 42.333,
+   "dur": 1.933,
+   "caption": "It's getting tight in here... AAAH!"
+  },
+  {
+   "id": "g25_0",
+   "who": "narrator",
+   "start": 44.3,
+   "dur": 1.507,
+   "caption": "So Ben blows the tanks with compressed air,"
+  },
+  {
+   "id": "g26_0",
+   "who": "narrator",
+   "start": 45.833,
+   "dur": 1.495,
+   "caption": "now it's lighter than the water, and up it shoots,"
+  },
+  {
+   "id": "g27_0",
+   "who": "narrator",
+   "start": 47.367,
+   "dur": 1.602,
+   "caption": "right up under the neighbour's little boat. Oops."
+  },
+  {
+   "id": "g28_0",
+   "who": "narrator",
+   "start": 49.0,
+   "dur": 1.075,
+   "caption": "Empty tanks: it floats again."
+  },
+  {
+   "id": "g29_0",
+   "who": "neighbour",
+   "start": 50.1,
+   "dur": 1.392,
+   "caption": "Worst fishing trip ever."
+  },
+  {
+   "id": "g30_0",
+   "who": "narrator",
+   "start": 51.533,
+   "dur": 2.3,
+   "caption": "And there you have it. Congratulations, you've built a submarine!"
+  },
+  {
+   "id": "g31_0",
+   "who": "grandma",
+   "start": 53.867,
+   "dur": 1.95,
+   "caption": "You know they sell snorkels, dear?"
+  },
+  {
+   "id": "g32_0",
+   "who": "ben",
+   "start": 55.867,
+   "dur": 1.173,
+   "caption": "Now you tell me."
+  }
+ ],
+ "words": [
+  {
+   "w": "First",
+   "t0": 0.0,
+   "t1": 0.34,
+   "key": false
+  },
+  {
+   "w": "Sit",
+   "t0": 0.34,
+   "t1": 0.36,
+   "key": false
+  },
+  {
+   "w": "Ben",
+   "t0": 0.36,
+   "t1": 0.5,
+   "key": false
+  },
+  {
+   "w": "In",
+   "t0": 0.5,
+   "t1": 0.6,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 0.6,
+   "t1": 0.66,
+   "key": false
+  },
+  {
+   "w": "Barrel",
+   "t0": 0.66,
+   "t1": 0.92,
+   "key": false
+  },
+  {
+   "w": "Tie",
+   "t0": 0.92,
+   "t1": 1.06,
+   "key": false
+  },
+  {
+   "w": "On",
+   "t0": 1.06,
+   "t1": 1.16,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 1.16,
+   "t1": 1.22,
+   "key": false
+  },
+  {
+   "w": "Big",
+   "t0": 1.22,
+   "t1": 1.34,
+   "key": false
+  },
+  {
+   "w": "Rock",
+   "t0": 1.34,
+   "t1": 1.56,
+   "key": true
+  },
+  {
+   "w": "And",
+   "t0": 1.56,
+   "t1": 1.68,
+   "key": false
+  },
+  {
+   "w": "Push",
+   "t0": 1.68,
+   "t1": 2.11,
+   "key": false
+  },
+  {
+   "w": "Down",
+   "t0": 2.067,
+   "t1": 2.187,
+   "key": false
+  },
+  {
+   "w": "He",
+   "t0": 2.187,
+   "t1": 2.287,
+   "key": false
+  },
+  {
+   "w": "Goes",
+   "t0": 2.287,
+   "t1": 2.727,
+   "key": false
+  },
+  {
+   "w": "Congratulations",
+   "t0": 2.727,
+   "t1": 3.407,
+   "key": false
+  },
+  {
+   "w": "You've",
+   "t0": 3.407,
+   "t1": 3.487,
+   "key": false
+  },
+  {
+   "w": "Built",
+   "t0": 3.487,
+   "t1": 3.587,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 3.587,
+   "t1": 3.707,
+   "key": false
+  },
+  {
+   "w": "Submarine",
+   "t0": 3.707,
+   "t1": 4.237,
+   "key": true
+  },
+  {
+   "w": "Mm-mmm",
+   "t0": 4.233,
+   "t1": 5.726,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 5.5,
+   "t1": 5.58,
+   "key": false
+  },
+  {
+   "w": "Can",
+   "t0": 5.58,
+   "t1": 5.68,
+   "key": false
+  },
+  {
+   "w": "Go",
+   "t0": 5.68,
+   "t1": 5.8,
+   "key": false
+  },
+  {
+   "w": "Down",
+   "t0": 5.8,
+   "t1": 6.16,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 6.16,
+   "t1": 6.18,
+   "key": false
+  },
+  {
+   "w": "Just",
+   "t0": 6.18,
+   "t1": 6.28,
+   "key": false
+  },
+  {
+   "w": "Can't",
+   "t0": 6.28,
+   "t1": 6.48,
+   "key": false
+  },
+  {
+   "w": "Come",
+   "t0": 6.48,
+   "t1": 6.58,
+   "key": false
+  },
+  {
+   "w": "Back",
+   "t0": 6.58,
+   "t1": 6.74,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 6.74,
+   "t1": 7.21,
+   "key": true
+  },
+  {
+   "w": "Water",
+   "t0": 7.133,
+   "t1": 7.313,
+   "key": false
+  },
+  {
+   "w": "Pushes",
+   "t0": 7.313,
+   "t1": 7.533,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 7.533,
+   "t1": 7.673,
+   "key": false
+  },
+  {
+   "w": "With",
+   "t0": 7.673,
+   "t1": 7.793,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 7.793,
+   "t1": 7.893,
+   "key": false
+  },
+  {
+   "w": "Weight",
+   "t0": 7.893,
+   "t1": 7.993,
+   "key": true
+  },
+  {
+   "w": "Of",
+   "t0": 7.993,
+   "t1": 8.133,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 8.133,
+   "t1": 8.233,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 8.233,
+   "t1": 8.393,
+   "key": false
+  },
+  {
+   "w": "You",
+   "t0": 8.393,
+   "t1": 8.533,
+   "key": false
+  },
+  {
+   "w": "Push",
+   "t0": 8.533,
+   "t1": 8.713,
+   "key": false
+  },
+  {
+   "w": "Aside",
+   "t0": 8.713,
+   "t1": 9.243,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 9.2,
+   "t1": 9.28,
+   "key": false
+  },
+  {
+   "w": "Rock",
+   "t0": 9.28,
+   "t1": 9.44,
+   "key": false
+  },
+  {
+   "w": "Weighs",
+   "t0": 9.44,
+   "t1": 9.58,
+   "key": false
+  },
+  {
+   "w": "More",
+   "t0": 9.58,
+   "t1": 9.76,
+   "key": false
+  },
+  {
+   "w": "Than",
+   "t0": 9.76,
+   "t1": 9.86,
+   "key": false
+  },
+  {
+   "w": "That",
+   "t0": 9.86,
+   "t1": 10.12,
+   "key": false
+  },
+  {
+   "w": "So",
+   "t0": 10.12,
+   "t1": 10.16,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 10.16,
+   "t1": 10.24,
+   "key": false
+  },
+  {
+   "w": "Sinks",
+   "t0": 10.24,
+   "t1": 10.63,
+   "key": true
+  },
+  {
+   "w": "A",
+   "t0": 10.633,
+   "t1": 10.733,
+   "key": false
+  },
+  {
+   "w": "Beach",
+   "t0": 10.733,
+   "t1": 10.853,
+   "key": false
+  },
+  {
+   "w": "Ball",
+   "t0": 10.853,
+   "t1": 11.053,
+   "key": false
+  },
+  {
+   "w": "Weighs",
+   "t0": 11.053,
+   "t1": 11.213,
+   "key": false
+  },
+  {
+   "w": "Much",
+   "t0": 11.213,
+   "t1": 11.393,
+   "key": false
+  },
+  {
+   "w": "Less",
+   "t0": 11.393,
+   "t1": 11.613,
+   "key": true
+  },
+  {
+   "w": "So",
+   "t0": 11.613,
+   "t1": 11.813,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 11.813,
+   "t1": 11.893,
+   "key": false
+  },
+  {
+   "w": "Pops",
+   "t0": 11.893,
+   "t1": 12.033,
+   "key": false
+  },
+  {
+   "w": "Right",
+   "t0": 12.033,
+   "t1": 12.233,
+   "key": false
+  },
+  {
+   "w": "Back",
+   "t0": 12.233,
+   "t1": 12.413,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 12.413,
+   "t1": 12.903,
+   "key": false
+  },
+  {
+   "w": "Whoa-oh",
+   "t0": 12.792,
+   "t1": 13.83,
+   "key": false
+  },
+  {
+   "w": "So",
+   "t0": 13.633,
+   "t1": 13.853,
+   "key": false
+  },
+  {
+   "w": "Heavy",
+   "t0": 13.853,
+   "t1": 13.893,
+   "key": false
+  },
+  {
+   "w": "Things",
+   "t0": 13.893,
+   "t1": 14.113,
+   "key": false
+  },
+  {
+   "w": "Sink",
+   "t0": 14.113,
+   "t1": 14.513,
+   "key": false
+  },
+  {
+   "w": "Light",
+   "t0": 14.513,
+   "t1": 14.573,
+   "key": false
+  },
+  {
+   "w": "Things",
+   "t0": 14.573,
+   "t1": 14.773,
+   "key": false
+  },
+  {
+   "w": "Float",
+   "t0": 14.773,
+   "t1": 15.153,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 15.153,
+   "t1": 15.173,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 15.173,
+   "t1": 15.253,
+   "key": false
+  },
+  {
+   "w": "Same",
+   "t0": 15.253,
+   "t1": 15.393,
+   "key": false
+  },
+  {
+   "w": "Weight",
+   "t0": 15.393,
+   "t1": 15.573,
+   "key": false
+  },
+  {
+   "w": "Hovers",
+   "t0": 15.573,
+   "t1": 16.103,
+   "key": true
+  },
+  {
+   "w": "So",
+   "t0": 16.067,
+   "t1": 16.187,
+   "key": false
+  },
+  {
+   "w": "You",
+   "t0": 16.187,
+   "t1": 16.287,
+   "key": false
+  },
+  {
+   "w": "Build",
+   "t0": 16.287,
+   "t1": 16.427,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 16.427,
+   "t1": 16.567,
+   "key": false
+  },
+  {
+   "w": "Sub",
+   "t0": 16.567,
+   "t1": 16.687,
+   "key": false
+  },
+  {
+   "w": "That",
+   "t0": 16.687,
+   "t1": 16.847,
+   "key": false
+  },
+  {
+   "w": "Can",
+   "t0": 16.847,
+   "t1": 16.947,
+   "key": false
+  },
+  {
+   "w": "Change",
+   "t0": 16.947,
+   "t1": 17.147,
+   "key": false
+  },
+  {
+   "w": "Its",
+   "t0": 17.147,
+   "t1": 17.247,
+   "key": false
+  },
+  {
+   "w": "Weight",
+   "t0": 17.247,
+   "t1": 17.697,
+   "key": true
+  },
+  {
+   "w": "With",
+   "t0": 17.667,
+   "t1": 17.767,
+   "key": false
+  },
+  {
+   "w": "Two",
+   "t0": 17.767,
+   "t1": 17.907,
+   "key": false
+  },
+  {
+   "w": "Empty",
+   "t0": 17.907,
+   "t1": 18.087,
+   "key": false
+  },
+  {
+   "w": "Tanks",
+   "t0": 18.087,
+   "t1": 18.267,
+   "key": true
+  },
+  {
+   "w": "On",
+   "t0": 18.267,
+   "t1": 18.407,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 18.407,
+   "t1": 18.487,
+   "key": false
+  },
+  {
+   "w": "Sides",
+   "t0": 18.487,
+   "t1": 18.937,
+   "key": false
+  },
+  {
+   "w": "Fishing",
+   "t0": 18.9,
+   "t1": 19.22,
+   "key": false
+  },
+  {
+   "w": "Time",
+   "t0": 19.22,
+   "t1": 20.13,
+   "key": false
+  },
+  {
+   "w": "Full",
+   "t0": 20.067,
+   "t1": 20.24,
+   "key": false
+  },
+  {
+   "w": "Of",
+   "t0": 20.24,
+   "t1": 20.327,
+   "key": false
+  },
+  {
+   "w": "Air",
+   "t0": 20.327,
+   "t1": 20.5,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 20.5,
+   "t1": 20.586,
+   "key": false
+  },
+  {
+   "w": "Floats",
+   "t0": 20.586,
+   "t1": 21.139,
+   "key": false
+  },
+  {
+   "w": "Open",
+   "t0": 20.933,
+   "t1": 21.093,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 21.093,
+   "t1": 21.173,
+   "key": false
+  },
+  {
+   "w": "Vents",
+   "t0": 21.173,
+   "t1": 21.313,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 21.313,
+   "t1": 21.473,
+   "key": false
+  },
+  {
+   "w": "Tanks",
+   "t0": 21.473,
+   "t1": 21.653,
+   "key": false
+  },
+  {
+   "w": "Fill",
+   "t0": 21.653,
+   "t1": 21.833,
+   "key": false
+  },
+  {
+   "w": "With",
+   "t0": 21.833,
+   "t1": 21.973,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 21.973,
+   "t1": 22.193,
+   "key": true
+  },
+  {
+   "w": "And",
+   "t0": 22.193,
+   "t1": 22.373,
+   "key": false
+  },
+  {
+   "w": "Down",
+   "t0": 22.373,
+   "t1": 22.513,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 22.513,
+   "t1": 22.633,
+   "key": false
+  },
+  {
+   "w": "Goes",
+   "t0": 22.633,
+   "t1": 23.103,
+   "key": false
+  },
+  {
+   "w": "Too",
+   "t0": 23.033,
+   "t1": 23.133,
+   "key": false
+  },
+  {
+   "w": "Much",
+   "t0": 23.133,
+   "t1": 23.273,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 23.273,
+   "t1": 23.493,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 23.493,
+   "t1": 23.653,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 23.653,
+   "t1": 23.733,
+   "key": false
+  },
+  {
+   "w": "Sinks",
+   "t0": 23.733,
+   "t1": 23.873,
+   "key": false
+  },
+  {
+   "w": "To",
+   "t0": 23.873,
+   "t1": 24.033,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 24.033,
+   "t1": 24.093,
+   "key": false
+  },
+  {
+   "w": "Bottom",
+   "t0": 24.093,
+   "t1": 24.563,
+   "key": false
+  },
+  {
+   "w": "Pump",
+   "t0": 24.533,
+   "t1": 24.673,
+   "key": false
+  },
+  {
+   "w": "Half",
+   "t0": 24.673,
+   "t1": 24.853,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 24.853,
+   "t1": 24.973,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 24.973,
+   "t1": 25.113,
+   "key": false
+  },
+  {
+   "w": "Out",
+   "t0": 25.113,
+   "t1": 25.333,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 25.333,
+   "t1": 25.473,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 25.473,
+   "t1": 25.553,
+   "key": false
+  },
+  {
+   "w": "Weighs",
+   "t0": 25.553,
+   "t1": 25.673,
+   "key": false
+  },
+  {
+   "w": "Exactly",
+   "t0": 25.673,
+   "t1": 26.033,
+   "key": true
+  },
+  {
+   "w": "As",
+   "t0": 26.033,
+   "t1": 26.253,
+   "key": false
+  },
+  {
+   "w": "Much",
+   "t0": 26.253,
+   "t1": 26.393,
+   "key": false
+  },
+  {
+   "w": "As",
+   "t0": 26.393,
+   "t1": 26.533,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 26.533,
+   "t1": 26.633,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 26.633,
+   "t1": 26.773,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 26.773,
+   "t1": 26.913,
+   "key": false
+  },
+  {
+   "w": "Pushes",
+   "t0": 26.913,
+   "t1": 27.073,
+   "key": false
+  },
+  {
+   "w": "Aside",
+   "t0": 27.073,
+   "t1": 27.643,
+   "key": false
+  },
+  {
+   "w": "So",
+   "t0": 27.6,
+   "t1": 27.72,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 27.72,
+   "t1": 27.8,
+   "key": false
+  },
+  {
+   "w": "Just",
+   "t0": 27.8,
+   "t1": 27.9,
+   "key": false
+  },
+  {
+   "w": "Hangs",
+   "t0": 27.9,
+   "t1": 28.08,
+   "key": false
+  },
+  {
+   "w": "There",
+   "t0": 28.08,
+   "t1": 28.26,
+   "key": false
+  },
+  {
+   "w": "In",
+   "t0": 28.26,
+   "t1": 28.34,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 28.34,
+   "t1": 28.4,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 28.4,
+   "t1": 28.62,
+   "key": false
+  },
+  {
+   "w": "Perfectly",
+   "t0": 28.62,
+   "t1": 28.94,
+   "key": false
+  },
+  {
+   "w": "Still",
+   "t0": 28.94,
+   "t1": 29.47,
+   "key": true
+  },
+  {
+   "w": "A",
+   "t0": 29.4,
+   "t1": 29.48,
+   "key": false
+  },
+  {
+   "w": "Propeller",
+   "t0": 29.48,
+   "t1": 29.72,
+   "key": false
+  },
+  {
+   "w": "At",
+   "t0": 29.72,
+   "t1": 29.82,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 29.82,
+   "t1": 29.88,
+   "key": false
+  },
+  {
+   "w": "Back",
+   "t0": 29.88,
+   "t1": 30.06,
+   "key": false
+  },
+  {
+   "w": "Pushes",
+   "t0": 30.06,
+   "t1": 30.24,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 30.24,
+   "t1": 30.4,
+   "key": false
+  },
+  {
+   "w": "Along",
+   "t0": 30.4,
+   "t1": 30.56,
+   "key": false
+  },
+  {
+   "w": "Past",
+   "t0": 30.56,
+   "t1": 30.82,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 30.82,
+   "t1": 30.96,
+   "key": false
+  },
+  {
+   "w": "Weeds",
+   "t0": 30.96,
+   "t1": 31.37,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 31.333,
+   "t1": 31.413,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 31.413,
+   "t1": 31.473,
+   "key": false
+  },
+  {
+   "w": "Periscope",
+   "t0": 31.473,
+   "t1": 31.853,
+   "key": true
+  },
+  {
+   "w": "Pokes",
+   "t0": 31.853,
+   "t1": 32.053,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 32.053,
+   "t1": 32.173,
+   "key": false
+  },
+  {
+   "w": "To",
+   "t0": 32.173,
+   "t1": 32.253,
+   "key": false
+  },
+  {
+   "w": "Look",
+   "t0": 32.253,
+   "t1": 32.333,
+   "key": false
+  },
+  {
+   "w": "Around",
+   "t0": 32.333,
+   "t1": 32.863,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 32.767,
+   "t1": 32.847,
+   "key": false
+  },
+  {
+   "w": "Who's",
+   "t0": 32.847,
+   "t1": 32.987,
+   "key": false
+  },
+  {
+   "w": "That",
+   "t0": 32.987,
+   "t1": 33.087,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 33.087,
+   "t1": 33.167,
+   "key": false
+  },
+  {
+   "w": "There",
+   "t0": 33.167,
+   "t1": 33.487,
+   "key": false
+  },
+  {
+   "w": "It's",
+   "t0": 33.487,
+   "t1": 33.547,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 33.547,
+   "t1": 33.627,
+   "key": false
+  },
+  {
+   "w": "Neighbour",
+   "t0": 33.627,
+   "t1": 33.767,
+   "key": false
+  },
+  {
+   "w": "Fishing",
+   "t0": 33.767,
+   "t1": 34.277,
+   "key": false
+  },
+  {
+   "w": "Then",
+   "t0": 34.3,
+   "t1": 34.4,
+   "key": false
+  },
+  {
+   "w": "His",
+   "t0": 34.4,
+   "t1": 34.5,
+   "key": false
+  },
+  {
+   "w": "Fishing",
+   "t0": 34.5,
+   "t1": 34.66,
+   "key": false
+  },
+  {
+   "w": "Hook",
+   "t0": 34.66,
+   "t1": 34.82,
+   "key": false
+  },
+  {
+   "w": "Snags",
+   "t0": 34.82,
+   "t1": 35.08,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 35.08,
+   "t1": 35.2,
+   "key": false
+  },
+  {
+   "w": "Sub",
+   "t0": 35.2,
+   "t1": 35.61,
+   "key": false
+  },
+  {
+   "w": "Big",
+   "t0": 35.567,
+   "t1": 35.807,
+   "key": false
+  },
+  {
+   "w": "One",
+   "t0": 35.807,
+   "t1": 36.357,
+   "key": false
+  },
+  {
+   "w": "Ben",
+   "t0": 36.333,
+   "t1": 36.473,
+   "key": false
+  },
+  {
+   "w": "Drives",
+   "t0": 36.473,
+   "t1": 36.693,
+   "key": false
+  },
+  {
+   "w": "Off",
+   "t0": 36.693,
+   "t1": 36.993,
+   "key": false
+  },
+  {
+   "w": "Towing",
+   "t0": 36.993,
+   "t1": 37.153,
+   "key": false
+  },
+  {
+   "w": "Him",
+   "t0": 37.153,
+   "t1": 37.253,
+   "key": false
+  },
+  {
+   "w": "Across",
+   "t0": 37.253,
+   "t1": 37.433,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 37.433,
+   "t1": 37.573,
+   "key": false
+  },
+  {
+   "w": "Lake",
+   "t0": 37.573,
+   "t1": 37.963,
+   "key": false
+  },
+  {
+   "w": "Biggest",
+   "t0": 37.933,
+   "t1": 38.213,
+   "key": false
+  },
+  {
+   "w": "Catch",
+   "t0": 38.213,
+   "t1": 38.553,
+   "key": false
+  },
+  {
+   "w": "Of",
+   "t0": 38.553,
+   "t1": 38.713,
+   "key": false
+  },
+  {
+   "w": "My",
+   "t0": 38.713,
+   "t1": 38.853,
+   "key": false
+  },
+  {
+   "w": "Life",
+   "t0": 38.853,
+   "t1": 39.503,
+   "key": false
+  },
+  {
+   "w": "Deeper",
+   "t0": 39.367,
+   "t1": 39.567,
+   "key": false
+  },
+  {
+   "w": "Down",
+   "t0": 39.567,
+   "t1": 39.907,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 39.907,
+   "t1": 39.947,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 39.947,
+   "t1": 40.107,
+   "key": false
+  },
+  {
+   "w": "Presses",
+   "t0": 40.107,
+   "t1": 40.327,
+   "key": false
+  },
+  {
+   "w": "Harder",
+   "t0": 40.327,
+   "t1": 40.767,
+   "key": false
+  },
+  {
+   "w": "One",
+   "t0": 40.767,
+   "t1": 40.907,
+   "key": false
+  },
+  {
+   "w": "More",
+   "t0": 40.907,
+   "t1": 41.047,
+   "key": false
+  },
+  {
+   "w": "Atmosphere",
+   "t0": 41.047,
+   "t1": 41.407,
+   "key": true
+  },
+  {
+   "w": "Every",
+   "t0": 41.407,
+   "t1": 41.627,
+   "key": false
+  },
+  {
+   "w": "Ten",
+   "t0": 41.627,
+   "t1": 41.827,
+   "key": false
+  },
+  {
+   "w": "Metres",
+   "t0": 41.827,
+   "t1": 42.277,
+   "key": false
+  },
+  {
+   "w": "It's",
+   "t0": 42.333,
+   "t1": 42.533,
+   "key": false
+  },
+  {
+   "w": "Getting",
+   "t0": 42.533,
+   "t1": 42.733,
+   "key": false
+  },
+  {
+   "w": "Tight",
+   "t0": 42.733,
+   "t1": 43.073,
+   "key": false
+  },
+  {
+   "w": "In",
+   "t0": 43.073,
+   "t1": 43.273,
+   "key": false
+  },
+  {
+   "w": "Here",
+   "t0": 43.273,
+   "t1": 43.913,
+   "key": false
+  },
+  {
+   "w": "AAAH",
+   "t0": 43.913,
+   "t1": 44.383,
+   "key": false
+  },
+  {
+   "w": "So",
+   "t0": 44.3,
+   "t1": 44.42,
+   "key": false
+  },
+  {
+   "w": "Ben",
+   "t0": 44.42,
+   "t1": 44.56,
+   "key": false
+  },
+  {
+   "w": "Blows",
+   "t0": 44.56,
+   "t1": 44.76,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 44.76,
+   "t1": 44.9,
+   "key": false
+  },
+  {
+   "w": "Tanks",
+   "t0": 44.9,
+   "t1": 45.06,
+   "key": false
+  },
+  {
+   "w": "With",
+   "t0": 45.06,
+   "t1": 45.22,
+   "key": false
+  },
+  {
+   "w": "Compressed",
+   "t0": 45.22,
+   "t1": 45.42,
+   "key": false
+  },
+  {
+   "w": "Air",
+   "t0": 45.42,
+   "t1": 45.95,
+   "key": true
+  },
+  {
+   "w": "Now",
+   "t0": 45.833,
+   "t1": 45.953,
+   "key": false
+  },
+  {
+   "w": "It's",
+   "t0": 45.953,
+   "t1": 46.093,
+   "key": false
+  },
+  {
+   "w": "Lighter",
+   "t0": 46.093,
+   "t1": 46.193,
+   "key": false
+  },
+  {
+   "w": "Than",
+   "t0": 46.193,
+   "t1": 46.333,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 46.333,
+   "t1": 46.393,
+   "key": false
+  },
+  {
+   "w": "Water",
+   "t0": 46.393,
+   "t1": 46.553,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 46.553,
+   "t1": 46.713,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 46.713,
+   "t1": 46.813,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 46.813,
+   "t1": 46.893,
+   "key": false
+  },
+  {
+   "w": "Shoots",
+   "t0": 46.893,
+   "t1": 47.323,
+   "key": false
+  },
+  {
+   "w": "Right",
+   "t0": 47.367,
+   "t1": 47.527,
+   "key": false
+  },
+  {
+   "w": "Up",
+   "t0": 47.527,
+   "t1": 47.647,
+   "key": false
+  },
+  {
+   "w": "Under",
+   "t0": 47.647,
+   "t1": 47.767,
+   "key": false
+  },
+  {
+   "w": "The",
+   "t0": 47.767,
+   "t1": 47.847,
+   "key": false
+  },
+  {
+   "w": "Neighbour's",
+   "t0": 47.847,
+   "t1": 48.087,
+   "key": false
+  },
+  {
+   "w": "Little",
+   "t0": 48.087,
+   "t1": 48.167,
+   "key": false
+  },
+  {
+   "w": "Boat",
+   "t0": 48.167,
+   "t1": 48.667,
+   "key": false
+  },
+  {
+   "w": "Oops",
+   "t0": 48.667,
+   "t1": 49.077,
+   "key": false
+  },
+  {
+   "w": "Empty",
+   "t0": 49.0,
+   "t1": 49.18,
+   "key": false
+  },
+  {
+   "w": "Tanks:",
+   "t0": 49.18,
+   "t1": 49.52,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 49.52,
+   "t1": 49.54,
+   "key": false
+  },
+  {
+   "w": "Floats",
+   "t0": 49.54,
+   "t1": 49.66,
+   "key": true
+  },
+  {
+   "w": "Again",
+   "t0": 49.66,
+   "t1": 50.19,
+   "key": false
+  },
+  {
+   "w": "Worst",
+   "t0": 50.1,
+   "t1": 50.4,
+   "key": false
+  },
+  {
+   "w": "Fishing",
+   "t0": 50.4,
+   "t1": 50.8,
+   "key": false
+  },
+  {
+   "w": "Trip",
+   "t0": 50.8,
+   "t1": 51.04,
+   "key": false
+  },
+  {
+   "w": "Ever",
+   "t0": 51.04,
+   "t1": 51.67,
+   "key": false
+  },
+  {
+   "w": "And",
+   "t0": 51.533,
+   "t1": 51.633,
+   "key": false
+  },
+  {
+   "w": "There",
+   "t0": 51.633,
+   "t1": 51.733,
+   "key": false
+  },
+  {
+   "w": "You",
+   "t0": 51.733,
+   "t1": 51.853,
+   "key": false
+  },
+  {
+   "w": "Have",
+   "t0": 51.853,
+   "t1": 52.013,
+   "key": false
+  },
+  {
+   "w": "It",
+   "t0": 52.013,
+   "t1": 52.433,
+   "key": false
+  },
+  {
+   "w": "Congratulations",
+   "t0": 52.433,
+   "t1": 52.953,
+   "key": false
+  },
+  {
+   "w": "You've",
+   "t0": 52.953,
+   "t1": 53.113,
+   "key": false
+  },
+  {
+   "w": "Built",
+   "t0": 53.113,
+   "t1": 53.233,
+   "key": false
+  },
+  {
+   "w": "A",
+   "t0": 53.233,
+   "t1": 53.353,
+   "key": false
+  },
+  {
+   "w": "Submarine",
+   "t0": 53.353,
+   "t1": 53.883,
+   "key": true
+  },
+  {
+   "w": "You",
+   "t0": 53.867,
+   "t1": 54.007,
+   "key": false
+  },
+  {
+   "w": "Know",
+   "t0": 54.007,
+   "t1": 54.167,
+   "key": false
+  },
+  {
+   "w": "They",
+   "t0": 54.167,
+   "t1": 54.387,
+   "key": false
+  },
+  {
+   "w": "Sell",
+   "t0": 54.387,
+   "t1": 54.687,
+   "key": false
+  },
+  {
+   "w": "Snorkels",
+   "t0": 54.687,
+   "t1": 55.447,
+   "key": false
+  },
+  {
+   "w": "Dear",
+   "t0": 55.447,
+   "t1": 55.777,
+   "key": false
+  },
+  {
+   "w": "Now",
+   "t0": 55.867,
+   "t1": 56.147,
+   "key": false
+  },
+  {
+   "w": "You",
+   "t0": 56.147,
+   "t1": 56.367,
+   "key": false
+  },
+  {
+   "w": "Tell",
+   "t0": 56.367,
+   "t1": 56.627,
+   "key": false
+  },
+  {
+   "w": "Me",
+   "t0": 56.627,
+   "t1": 57.177,
+   "key": false
+  }
+ ],
+ "labels": [
+  {
+   "text": "SPLASH",
+   "style": "red",
+   "t0": 1.317,
+   "t1": 2.067
+  },
+  {
+   "text": "BUOYANCY",
+   "style": "yellow",
+   "t0": 7.283,
+   "t1": 9.2
+  },
+  {
+   "text": "WEIGHT > BUOYANCY",
+   "style": "yellow",
+   "t0": 9.35,
+   "t1": 10.633
+  },
+  {
+   "text": "SINK \u00b7 FLOAT \u00b7 HOVER",
+   "style": "yellow",
+   "t0": 13.783,
+   "t1": 16.067
+  },
+  {
+   "text": "BALLAST TANKS",
+   "style": "yellow",
+   "t0": 17.817,
+   "t1": 18.9
+  },
+  {
+   "text": "VENTS OPEN",
+   "style": "yellow",
+   "t0": 21.083,
+   "t1": 23.033
+  },
+  {
+   "text": "NEUTRAL",
+   "style": "green",
+   "t0": 24.683,
+   "t1": 28.7
+  },
+  {
+   "text": "PERISCOPE",
+   "style": "yellow",
+   "t0": 31.483,
+   "t1": 32.767
+  },
+  {
+   "text": "",
+   "style": "scope",
+   "t0": 32.917,
+   "t1": 33.467
+  },
+  {
+   "text": "+1 atm PER 10 m",
+   "style": "yellow",
+   "t0": 40.883,
+   "t1": 42.333
+  },
+  {
+   "text": "BLOW BALLAST",
+   "style": "yellow",
+   "t0": 44.45,
+   "t1": 45.833
+  },
+  {
+   "text": "SPLASH",
+   "style": "red",
+   "t0": 47.517,
+   "t1": 48.267
+  }
+ ],
+ "tapes": []
+}

@@ -1,0 +1,101 @@
+#!/bin/sh
+# tw: drive a toy-world reel from storyboard to finished MP4.
+#
+#   tw new <dir>                          start a film from the starter template (links the kit and the assets)
+#   tw relink <film>                      re-point a film's lib/ and assets/ links at this install (after moving or updating)
+#   tw sheet <film> [name] [frac ...]     contact sheet: a still at each fraction of every shot (default 0.3 0.8) -> <film>/review/<name>.jpg
+#   tw stills <film> <name> <t> [t ...]   contact sheet at the given times (seconds)
+#   tw voice <film> tts [g03_0,g05_1]     synthesise the script's lines (Kokoro); optional ids redo only those lines
+#   tw voice <film> timing                fit every shot to its lines (no dead air) -> timing.json, captions, lip-sync envelopes
+#   tw render <film> [seconds]            render the picture (1080x1920, 30 fps); seconds = only the opening
+#   tw assemble <film> [picture] [out]    voice + music + SFX mix, captions and labels, mastered to -14 LUFS, plus a 720p phone copy
+#   tw check <film> [video]               loudness and any silence longer than 0.25 s
+#   tw doctor                             check that the engine, voice model and assets are installed
+#
+# Env: SSAA (stills, default 1), WORKERS (render, default 2), PLAYWRIGHT_CHROME (use a system Chrome instead of the bundled one).
+set -e
+TW=$(cd "$(dirname "$0")" && pwd -P)
+die() { echo "✗ $*" >&2; exit 1; }
+
+engine() {
+  for c in "$TOYWORLD_ENGINE" "$LEMO_OPUSCAR_HOME" "${TOYWORLD_HOME:-$HOME/.toyworld}/lemo-opuscar" "$HOME/lemo-opuscar"; do
+    [ -n "$c" ] && [ -d "$c/core/render" ] && { (cd "$c" && pwd -P); return; }
+  done
+  die "engine not found: run $TW/setup.sh first"
+}
+LIB=$(engine); PY=$LIB/.venv/bin/python
+[ -x "$PY" ] || die "engine Python missing: run $TW/setup.sh"
+film() { [ -n "$1" ] && [ -f "$1/index.html" ] || die "not a film folder: $1"; (cd "$1" && pwd -P); }
+shot_times() {   # film fracs... -> times at those fractions of every shot
+  "$PY" - "$@" <<'PY'
+import json, os, sys
+film, fr = sys.argv[1], [float(x) for x in sys.argv[2:]] or [0.3, 0.8]
+p = os.path.join(film, 'timing.json')
+t = json.load(open(p if os.path.exists(p) else os.path.join(film, 'durations.json')))
+acc, out = 0.0, []
+for k in sorted(t):
+    out += [round(acc + t[k] * f, 2) for f in fr]
+    acc += t[k]
+print(' '.join(map(str, out)))
+PY
+}
+stills() {  # film name t...
+  F=$1; N=$2; shift 2
+  rm -rf "$F/review/$N"; mkdir -p "$F/review/$N"
+  (cd "$LIB" && node core/render/still.mjs "$F" "$@" --size 1080x1920 --q "ssaa=${SSAA:-1}" --out "$F/review/$N" 2>&1 | grep -v "optional file missing" | grep -iv "jpg [0-9]*ms" || true)
+  ls "$F/review/$N"/*.jpg >/dev/null 2>&1 || die "no stills rendered (see the errors above)"
+  "$PY" "$LIB/core/render/sheet.py" "$F/review/$N.jpg" $(ls "$F/review/$N"/*.jpg | sort -t_ -k2 -n) --cols "${COLS:-8}" --w "${W:-200}" >/dev/null
+  echo "$F/review/$N.jpg"
+}
+
+cmd=$1; [ -n "$cmd" ] && shift || { sed -n '2,16p' "$0"; exit 0; }
+case "$cmd" in
+  new)
+    [ -n "$1" ] || die "usage: tw new <dir>"; [ -e "$1" ] && die "$1 already exists"
+    cp -R "$TW/templates/starter" "$1"
+    ln -s "$TW/kit" "$1/lib"; ln -s "$TW/assets" "$1/assets"
+    echo "✓ new film in $1 — next: edit STORYBOARD.md, then src/, then: tw sheet $1" ;;
+  relink)
+    F=$(film "$1"); rm -f "$F/lib" "$F/assets"; ln -s "$TW/kit" "$F/lib"; ln -s "$TW/assets" "$F/assets"; echo "✓ relinked $F" ;;
+  sheet)
+    F=$(film "$1"); N=${2:-sheet}; [ $# -ge 2 ] && shift 2 || shift
+    stills "$F" "$N" $(shot_times "$F" "$@") ;;
+  stills)
+    F=$(film "$1"); shift; stills "$F" "$@" ;;
+  voice)
+    F=$(film "$1"); shift
+    "$PY" "$TW/tools/voice.py" "$F" "$@" ;;
+  render)
+    F=$(film "$1"); DUR=$2
+    mkdir -p "$F/render"
+    if [ -n "$DUR" ]; then Q="ssaa=2&dur=$DUR"; OUT="$F/render/opening_picture.mp4"; else Q="ssaa=2"; OUT="$F/render/picture.mp4"; fi
+    (cd "$LIB" && node core/render/video.mjs "$F" --fps 30 --workers "${WORKERS:-2}" --size 1080x1920 --q "$Q" --out "$OUT")
+    echo "$OUT" ;;
+  assemble)
+    F=$(film "$1"); NAME=$(basename "$F")
+    PIC=${2:-$F/render/picture.mp4}; OUT=${3:-$F/output/$NAME.mp4}
+    [ -f "$PIC" ] || die "no picture: $PIC (tw render first)"
+    mkdir -p "$F/render" "$(dirname "$OUT")"
+    "$PY" "$TW/tools/mix.py" "$F"
+    D=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$PIC")
+    ffmpeg -v error -y -i "$F/audio/mix.wav" -t "$D" -af "afade=t=out:st=$(echo "$D - 0.3" | bc):d=0.3" "$F/render/cut_mix.wav"
+    "$PY" "$TW/tools/overlay.py" "$F/voice/timeline.json" "$PIC" "$F/render/captioned.mp4"
+    LEMO_COLOR=bt709 sh "$LIB/core/render/mux.sh" "$F/render/captioned.mp4" "$F/render/cut_mix.wav" "$OUT" 30 0
+    ffmpeg -v error -y -i "$OUT" -vf scale=720:1280 -c:v libx264 -crf 26 -preset medium -c:a aac -b:a 128k "${OUT%.mp4}_phone.mp4"
+    echo "✓ $OUT (+ ${OUT%.mp4}_phone.mp4)" ;;
+  check)
+    F=$(film "$1"); V=${2:-$F/output/$(basename "$F").mp4}
+    ffmpeg -nostats -i "$V" -af ebur128=peak=true -f null - 2>&1 | grep -E "^ +(I|Peak):" | tail -2
+    S=$(ffmpeg -nostats -i "$V" -af silencedetect=noise=-35dB:d=0.25 -f null - 2>&1 | grep -c silence_start || true)
+    echo "silences > 0.25 s: $S" ;;
+  doctor)
+    ok() { echo "✓ $1"; }; bad() { echo "✗ $1"; BAD=1; }
+    ok "engine: $LIB"
+    [ -f "$LIB/core/tts/kokoro-v1.0.onnx" ] && ok "voice model" || bad "voice model missing: (cd $LIB && sh tools/fetch.sh voice)"
+    [ -f "$TW/assets/hdri/sky_2k.hdr" ] && [ -f "$TW/assets/trees/island_tree_03/island_tree_03.bin" ] && ok "Poly Haven assets" || bad "assets missing: $PY $TW/tools/fetch_assets.py"
+    [ -d "$LIB/core/audio/instruments/vsco2ce" ] && [ -d "$LIB/core/audio/instruments/freepats" ] && ok "music samples" || echo "· music samples not installed: plucked-string fallback (./setup.sh --music for the sampled bed)"
+    command -v ffmpeg >/dev/null && ok "ffmpeg" || bad "ffmpeg not found"
+    "$PY" -c "import kokoro_onnx, faster_whisper" 2>/dev/null && ok "voice packages" || bad "voice packages: sh $LIB/plugin/skills/lemo-opuscar/scripts/setup.sh deps voice"
+    [ -z "$BAD" ] ;;
+  *) die "unknown command: $cmd (run tw for help)" ;;
+esac

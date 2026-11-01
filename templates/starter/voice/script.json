@@ -1,0 +1,16 @@
+{
+ "voices": {
+  "narrator": {"voice": "am_puck", "speed": 1.2, "tempo": 1.36},
+  "ben": {"voice": "am_echo", "speed": 1.18, "pitch": 3, "tempo": 1.1},
+  "grandma": {"voice": "bf_lily", "speed": 1.15, "pitch": 1, "tempo": 1.1},
+  "neighbour": {"voice": "am_michael", "speed": 1.15, "tempo": 1.1}
+ },
+ "groups": [
+  {"shots": ["01", "02"], "lines": [{"text": "Drop a ball, and every bounce keeps a little less of its energy. Congratulations, you've built a bouncing ball!", "key": ["ball"]}]},
+  {"shots": ["03"], "lines": [{"who": "ben", "text": "Again!"}]}
+ ],
+ "labels": [
+  {"shot": "02", "text": "BOUNCE"}
+ ],
+ "timing": {"floor": 0.7, "min_k": {}}
+}

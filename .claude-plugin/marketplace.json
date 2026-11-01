@@ -1,0 +1,11 @@
+{
+  "name": "toyworld-reels",
+  "owner": { "name": "Sanskar Prajapati", "url": "https://github.com/sanskarprajapati" },
+  "plugins": [
+    {
+      "name": "toyworld-reels",
+      "source": "./",
+      "description": "Toy-world 3D explainer reels made in code: the workflow, the kit and the tools."
+    }
+  ]
+}

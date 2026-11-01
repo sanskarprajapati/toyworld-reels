@@ -1,0 +1,10 @@
+{
+  "name": "toyworld-reels",
+  "version": "0.1.0",
+  "description": "Make 60-75 s vertical toy-world 3D explainer reels in code (Three.js): storyboard, physically correct animation, lip-synced characters, offline voiceover, captions, music and SFX.",
+  "author": { "name": "Sanskar Prajapati", "url": "https://github.com/sanskarprajapati" },
+  "homepage": "https://github.com/sanskarprajapati/toyworld-reels",
+  "repository": "https://github.com/sanskarprajapati/toyworld-reels",
+  "license": "MIT",
+  "keywords": ["video", "threejs", "explainer", "reels", "shorts", "animation", "3d"]
+}
