@@ -18,9 +18,6 @@ a Claude Code skill that runs the whole workflow.
 </tr>
 </table>
 
-![Frames from the hot-air balloon reel](docs/balloon.jpg)
-![Frames from the submarine reel](docs/submarine.jpg)
-
 ## Install
 
 You need macOS or Linux with git, Node 20+, Python 3.11 to 3.13 (or [uv](https://github.com/astral-sh/uv)) and ffmpeg.
