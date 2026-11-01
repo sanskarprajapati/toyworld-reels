@@ -15,8 +15,10 @@ Examples to read before writing anything: `examples/balloon/` (hot-air balloon, 
 
 ## Where things are
 
-The repo root is two folders above this file (or `${CLAUDE_PLUGIN_ROOT}` when installed as a plugin). Call it `$TW`.
-- `$TW/tw` - the CLI (run it with no arguments for help). `$TW/setup.sh` - one-time install; run it if `$TW/tw doctor` fails.
+The repo root is the folder that contains `skills/` (`${CLAUDE_PLUGIN_ROOT}` when installed as a plugin). Call it `$TW`.
+- `$TW/tw` - the CLI (run it with no arguments for help). `$TW/setup.sh` - one-time install (~1 GB of downloads: tell
+  the user before running it) when `$TW/tw doctor` fails. Films made from a plugin install link to `$TW`; after a plugin
+  update run `$TW/tw relink <film>`.
 - `$TW/kit/` - the shared Three.js library (world, characters with painted faces, acting, particles, post, staging).
 - `$TW/templates/starter/` - copied by `tw new`. `$TW/tools/` - voice, mix, music, overlay, asset fetch.
 - References: [WORKFLOW.md](references/WORKFLOW.md) (the process, step by step), [STYLE.md](references/STYLE.md) (pacing,
